@@ -1,0 +1,14 @@
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.csproj.AssemblyReference.cache
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.AssemblyInfoInputs.cache
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.AssemblyInfo.cs
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.csproj.CoreCompileInputs.cache
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.exe
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.deps.json
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.runtimeconfig.json
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.runtimeconfig.dev.json
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\PROG2070Assign2.pdb
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.pdb
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.genruntimeconfig.cache
