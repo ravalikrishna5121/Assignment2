@@ -13,6 +13,7 @@ namespace PROG2070Assign2
             pvtradius = 1;
         }
 
+        // Parameterised Constructor
         public Circle ( int InputRadius)
         {
             pvtradius= InputRadius;
