@@ -12,3 +12,11 @@ D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcore
 D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.dll
 D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.pdb
 D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.genruntimeconfig.cache
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Ravali\Sem 2 Assignments\QA\PROG2070Assign2\PROG2070Assign2\obj\Debug\netcoreapp3.1\PROG2070Assign2.csproj.CopyComplete

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using NUnit;
+
 
 namespace PROG2070Assign2
 {
@@ -31,12 +33,12 @@ namespace PROG2070Assign2
         public double GetCircumference()
         {
 
-            return 2 * 3.14 * this.pvtradius;
+            return 2 * Math.PI * this.pvtradius;
         }
 
         public double GetArea()
         {
-            return 3.14 * pvtradius * pvtradius;
+            return Math.PI * pvtradius * pvtradius;
         }
 
     }

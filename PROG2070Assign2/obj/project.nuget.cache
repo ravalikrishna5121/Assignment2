@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YEpl0gUVX6O+QBu4TI73/viqPz5z5cJo/RNa5hZ7RcHZU+3jD34OmdLiakchDYJK8HaLqw0ngJ3ebobsdIQRvg==",
+  "dgSpecHash": "mUr3d/fjPyN20VGBGhaxgL7W/+j6LxvhFYixyhk2fJK8Y8A/T/OsxXU5qgv5C0IoqcSbHrQ2FJhP6vf0R6BsIg==",
   "success": true,
   "projectFilePath": "D:\\Ravali\\Sem 2 Assignments\\QA\\PROG2070Assign2\\PROG2070Assign2\\PROG2070Assign2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\raval\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\raval\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\raval\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\raval\\.nuget\\packages\\nunit.consolerunner\\3.16.2\\nunit.consolerunner.3.16.2.nupkg.sha512",
+    "C:\\Users\\raval\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
   "logs": []
 }

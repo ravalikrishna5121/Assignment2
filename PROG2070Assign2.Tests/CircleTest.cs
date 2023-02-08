@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PROG2070Assign2.Tests
 {
-    public class Class1
+    public class CircleTest
     {
     }
 }
